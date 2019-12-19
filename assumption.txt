@@ -1,0 +1,4 @@
+- No escape characters
+- Open quote '"' will always be ended with '"'
+- PATH can also be quoted: "echo" "hello" prints hello. verified in bash
+- The only delimiters are "&&", "||", and ';'
